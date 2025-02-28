@@ -1,4 +1,3 @@
-// app/react/why-react/page.js
 import Link from "next/link";
 import Image from "next/image";
 
