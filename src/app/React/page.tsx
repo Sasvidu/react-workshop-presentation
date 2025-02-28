@@ -21,7 +21,7 @@ export default function ReactSlide() {
             Previous
           </Link>
           <Link
-            href="/Node"
+            href="/WhyReact"
             className="bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-cyan-600 hover:to-blue-600 text-white font-semibold py-3 px-6 rounded-full shadow-xl transition duration-300 ease-in-out transform hover:scale-105"
           >
             Next
