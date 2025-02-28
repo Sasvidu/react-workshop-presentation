@@ -10,7 +10,7 @@ export default function UseStateSlide() {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-pink-300 to-green-300 p-4">
       <div className="text-center">
         <h1 className="text-4xl md:text-5xl font-extrabold text-purple-800 drop-shadow-md mb-8 animate-pulse">
-          React's useState Hook 🌈
+          React&apos;s useState Hook 🌈
         </h1>
         <p className="text-lg md:text-xl text-gray-800 mb-10">
           Manage state in functional components with ease.
@@ -20,14 +20,22 @@ export default function UseStateSlide() {
           <h2 className="text-2xl font-semibold text-purple-700 mb-4">
             Importing useState
           </h2>
-          <SyntaxHighlighter language="jsx" style={docco} className="rounded-md mb-4">
+          <SyntaxHighlighter
+            language="jsx"
+            style={docco}
+            className="rounded-md mb-4"
+          >
             {importCodeString}
           </SyntaxHighlighter>
 
           <h2 className="text-2xl font-semibold text-purple-700 mb-4">
             Initializing useState
           </h2>
-          <SyntaxHighlighter language="jsx" style={docco} className="rounded-md">
+          <SyntaxHighlighter
+            language="jsx"
+            style={docco}
+            className="rounded-md"
+          >
             {initCodeString}
           </SyntaxHighlighter>
         </div>

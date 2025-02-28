@@ -9,7 +9,7 @@ export default function Intro() {
           Hello, Web Wizards! ✨
         </h1>
         <p className="text-xl text-gray-400 mb-10">
-          Ready to dive into the world of React? Let's build
+          Ready to dive into the world of React? Let&apos;s build
           something amazing together!
         </p>
 
