@@ -7,7 +7,7 @@ export default function SetupSlide() {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-indigo-200 to-indigo-100 p-4">
       <div className="text-center">
         <h1 className="text-4xl md:text-5xl font-extrabold text-indigo-700 drop-shadow-md mb-8 md:mb-18 animate-pulse">
-          Let's Get Set Up!
+          Time to Cook!
         </h1>
       </div>
 

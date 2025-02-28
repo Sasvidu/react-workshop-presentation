@@ -6,10 +6,10 @@ export default function Intro() {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-gray-950 to-blue-950 p-4">
       <div className="text-center">
         <h1 className="text-5xl font-extrabold text-blue-200 drop-shadow-lg mb-6 animate-pulse">
-          Hello, Future Web Wizards! ✨
+          Hello, Web Wizards! ✨
         </h1>
         <p className="text-xl text-gray-400 mb-10">
-          Ready to dive into the world of React and Next.js? Let's build
+          Ready to dive into the world of React? Let's build
           something amazing together!
         </p>
 
