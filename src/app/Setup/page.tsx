@@ -20,7 +20,7 @@ export default function SetupSlide() {
               width={120}
               height={120}
               alt="Node.js Logo"
-              className="transition-transform duration-300 hover:scale-110 hover:rotate-6"
+              className="transition-transform duration-300 hover:scale-110 hover:rotate-12"
             />
           </div>
           <div> {/* Wrapped text content in a div */}
@@ -46,7 +46,7 @@ export default function SetupSlide() {
               width={120}
               height={120}
               alt="Next.js Logo"
-              className="transition-transform duration-300 hover:scale-110 hover:rotate-6"
+              className="transition-transform duration-300 hover:scale-110 hover:rotate-12"
             />
           </div>
           <div> {/* Wrapped text content in a div */}
