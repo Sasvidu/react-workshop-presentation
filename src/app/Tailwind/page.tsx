@@ -38,7 +38,7 @@ export default function TailwindSlide() {
             href="/Setup"
             className="bg-gray-200 hover:bg-gray-300 text-gray-700 font-semibold py-3 px-6 rounded-full shadow-md transition duration-300 ease-in-out transform hover:scale-105"
           >
-            Previous
+            Back
           </Link>
           <Link
             href="/UseState"

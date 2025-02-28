@@ -17,7 +17,7 @@ export default function ReactSlide() {
             href="/Intro"
             className="bg-gradient-to-r from-gray-700 to-gray-800 hover:from-gray-800 hover:to-gray-700 text-gray-300 font-semibold py-3 px-6 rounded-full shadow-md transition duration-300 ease-in-out transform hover:scale-105"
           >
-            Previous
+            Back
           </Link>
           <Link
             href="/WhyReact"

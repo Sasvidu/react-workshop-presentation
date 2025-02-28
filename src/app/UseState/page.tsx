@@ -37,10 +37,10 @@ export default function UseStateSlide() {
             href="/Tailwind"
             className="bg-gray-200 hover:bg-gray-300 text-gray-700 font-semibold py-3 px-6 rounded-full shadow-md transition duration-300 ease-in-out transform hover:scale-105"
           >
-            Previous
+            Back
           </Link>
           <Link
-            href="/TodoList"
+            href="/Todo"
             className="bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-indigo-600 hover:to-purple-600 text-white font-semibold py-3 px-6 rounded-full shadow-md transition duration-300 ease-in-out transform hover:scale-105"
           >
             Todo! 📝
