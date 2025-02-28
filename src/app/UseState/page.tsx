@@ -43,7 +43,7 @@ export default function UseStateSlide() {
             href="/TodoList"
             className="bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-indigo-600 hover:to-purple-600 text-white font-semibold py-3 px-6 rounded-full shadow-md transition duration-300 ease-in-out transform hover:scale-105"
           >
-            Next
+            Todo! 📝
           </Link>
         </div>
       </div>
